@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anirudh!
 
-I'm a Fullstack Developer based in Toronto, currently working at [Triyo](https://triyo.io), a fast-paced fintech startup. My expertise lies in building robust and scalable applications using React, C#, and Three.js.
+I'm a Fullstack Developer based in Toronto, currently working at [TRIYO](https://triyo.io), a fast-paced fintech startup. My expertise lies in building robust and scalable applications using React, C#, and Three.js.
 
 ## 💼 About Me
 
