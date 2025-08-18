@@ -28,7 +28,7 @@ I'm a Fullstack Developer based in Toronto, currently working at [Triyo](https:/
 
 ## 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/anirudh887)
+- [LinkedIn](https://www.linkedin.com/in/anirudh-singh887)
 - [GitHub](https://github.com/Anirudh887)
 
 ---
