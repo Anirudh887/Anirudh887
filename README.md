@@ -20,6 +20,7 @@ I'm a Fullstack Developer based in Toronto, currently working at [TRIYO](https:/
 - Building scalable fintech solutions at Triyo
 - Exploring new technologies in both frontend and backend development
 - Experimenting with 3D interfaces using Three.js
+- Building a cycling app as an extension of my hobby.
 
 ## 🎾 Fun Facts
 
