@@ -9,11 +9,17 @@ I'm a Fullstack Developer based in Toronto, currently working at [TRIYO](https:/
 - ⚙️ **Tech Stack:** React, C#, Three.js  
 - 🌐 **Location:** Toronto, Canada
 
-## 🛠️ Skills
+## 🛠️ Stack
+**Backend:** C#, ASP.NET Web API, Entity Framework, SQL Server, Hangfire
+**Frontend:** React, TypeScript, SCSS
+**Testing and tooling:** xUnit, Moq, Jest, GitHub Actions
 
-- **Frontend:** React, Three.js, JavaScript, TypeScript, HTML5, CSS3
-- **Backend:** C#, .NET, REST APIs
-- **Other:** Git, Agile methodologies, CI/CD
+## At Triyo, in numbers
+- 970 pull requests merged and 1,400+ reviewed across 7 repositories
+- Moved a legacy MVC app onto a REST API and React
+- Built staffing and deal dashboards for banking teams
+- Built an MCP server so AI assistants can query project data safely
+- Currently migrating the API from .NET Framework 4.7.2 to .NET 10
 
 ## 🚀 What I'm Working On
 
