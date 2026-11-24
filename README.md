@@ -30,6 +30,7 @@ I'm a Fullstack Developer based in Toronto, currently working at [TRIYO](https:/
 ## 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/anirudh-singh887)
+<img width="1114" height="867" alt="image" src="https://github.com/user-attachments/assets/45dbf794-e438-4054-9e41-4687e1e934cf" />
 
 ---
 
