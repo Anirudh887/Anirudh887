@@ -10,9 +10,9 @@ I'm a Fullstack Developer based in Toronto, currently working at [TRIYO](https:/
 - 🌐 **Location:** Toronto, Canada
 
 ## 🛠️ Stack
-**Backend:** C#, ASP.NET Web API, Entity Framework, SQL Server, Hangfire
-**Frontend:** React, TypeScript, SCSS
-**Testing and tooling:** xUnit, Moq, Jest, GitHub Actions
+- **Backend:** C#, ASP.NET Web API, Entity Framework, SQL Server, Hangfire
+- **Frontend:** React, TypeScript, SCSS
+- **Testing and tooling:** xUnit, Moq, Jest, GitHub Actions
 
 ## At Triyo, in numbers
 - 970 pull requests merged and 1,400+ reviewed across 7 repositories
